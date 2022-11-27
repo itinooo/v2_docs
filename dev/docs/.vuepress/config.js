@@ -5,6 +5,8 @@ export default defineUserConfig({
     lang: 'zh-CN',
     title: '你好， VuePress ！',
     description: '这是我的第一个 VuePress 站点',
+    base: 'v2_docs',
+
     theme: defaultTheme({
         // 侧边栏数组
         // 所有页面会使用相同的侧边栏
