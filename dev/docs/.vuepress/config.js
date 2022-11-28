@@ -1,5 +1,6 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
+import { recoTheme } from 'vuepress-theme-reco'
 
 export default defineUserConfig({
     lang: 'zh-CN',
